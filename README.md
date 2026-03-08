@@ -1,4 +1,4 @@
 # demo
 This is my first Git repo.
 </br>
-Author - Atharva Jadhav
+Author - Atharva Jadhav (oscar)
